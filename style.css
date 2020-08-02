@@ -1,4 +1,5 @@
 form{
+    margin:50px auto;
     width: 250px;
     background-color: gray;
     padding: 10px 15px;
@@ -14,4 +15,16 @@ input[type="text"]{
  box-sizing: border-box;
  text-align: right;
 
+}
+input[type="button"]{
+    width: 58px;
+    height: 55px;
+    background-color: green;
+    color: honeydew;
+    font-size: 22px;
+    margin-bottom: 5px;
+
+}
+hr{
+    margin: 15px 0;
 }
